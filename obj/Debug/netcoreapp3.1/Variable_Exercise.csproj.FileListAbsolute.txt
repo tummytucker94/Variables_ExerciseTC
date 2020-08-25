@@ -1,0 +1,12 @@
+/Users/user/repos/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.deps.json
+/Users/user/repos/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.runtimeconfig.json
+/Users/user/repos/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.runtimeconfig.dev.json
+/Users/user/repos/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.dll
+/Users/user/repos/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.pdb
+/Users/user/repos/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.csprojAssemblyReference.cache
+/Users/user/repos/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.AssemblyInfoInputs.cache
+/Users/user/repos/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.AssemblyInfo.cs
+/Users/user/repos/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.csproj.CoreCompileInputs.cache
+/Users/user/repos/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.dll
+/Users/user/repos/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.pdb
+/Users/user/repos/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.genruntimeconfig.cache
